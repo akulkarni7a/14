@@ -138,7 +138,7 @@
     "jest-environment-jsdom": "29.7.0",
     "jest-mock-extended": "^3.0.5",
     "jest-preset-angular": "~13.1.0",
-    "jsdom": "22.1.0",
+    "jsdom": "25.0.1",
     "jsonc-eslint-parser": "^2.1.0",
     "lint-staged": "^15.0.2",
     "newman": "^6.0.0",
